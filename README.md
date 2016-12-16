@@ -1,2 +1,2 @@
-# hello-world
-Tutorial for GitHub
+# hello world
+J$ Starting on GitHub IDK 
